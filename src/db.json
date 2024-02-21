@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Chocolate",
+      "description": "Rich, creamy and indulgent, our chocolate ice cream is a classic",
+      "price": " 4.50",
+      "imageUrl": "https://assets-global.website-files.com/60680e16f45cd34525698cd7/6071cfc2bc149d77b6869865_Chocolate.png",
+      "ingredients": "Milkfat, Nonfat Milk, Sugar, Corn Syrup, Whey, Cocoa (Processed with Alkali), Sugar, Salt, Carrageenan, Natural Vanilla."
+    },
+    {
+      "id": "2",
+      "name": "Strawberry",
+      "description": "Strawberry ice cream with real strawberries",
+      "price": " 4.50",
+      "imageUrl": "https://assets-global.website-files.com/60680e16f45cd34525698cd7/6071d97a6932222ff1dcf289_Strawberry.png",
+      "ingredients": "Milkfat, Nonfat Milk, Sugar, Strawberries, Corn Syrup, Whey,  Stabilizer (Mono and Di Glycerides, Locust Bean Gum, Guar Gum, Carrageenan), Natural and Artificial Flavors"
+    },
+    {
+      "id": "3",
+      "name": "Vanilla",
+      "description": "A rich blend of sweet cream and real vanilla give a sophisticated taste to this classic",
+      "price": " 4.50",
+      "imageUrl": "https://assets-global.website-files.com/60680e16f45cd34525698cd7/6071d22c35c4a2945172fece_Vanilla.png ",
+      "ingredients": "Milkfat, Nonfat Milk, Sugar, Corn Syrup, Whey, Stabilizer (Mono and Diglycerides, Locust Bean Gum Guar Gum, Carrageenan), Natural and Artificial Vanilla Flavors"
+    },
+    {
+      "id": "4",
+      "name": "Cookie N Cream",
+      "description": "A classic blend of vanilla-based ice cream and Oreo cookie chunks",
+      "price": " 6.50",
+      "imageUrl": "https://assets-global.website-files.com/60680e16f45cd34525698cd7/607397a0d222cb3bdc583378_Cookies%20and%20Cream.png ",
+      "ingredients": "A classic blend of vanilla-based ice cream and Oreo cookie chunks"
+    },
+    {
+      "id": "5",
+      "name": "Mint Chocolate Chip",
+      "description": "Refreshing mint ice cream with pieces of chocolate chips",
+      "price": " 6.50",
+      "imageUrl": " https://assets-global.website-files.com/60680e16f45cd34525698cd7/6071bcadbfba5c5413386441_Mint%20Chocolate%20Chip.png",
+      "ingredients": "Milkfat, Nonfat Milk, Sugar, Corn Syrup, Whey, Coconut Oil, Cocoa Powder (Processed with Alkali), Partially Hydrogenated Coconut Oil, Cocoa Powder, Salt, Soy Lecithin, Natural Flavor, Propylene Glycol, Xanthan Gum, "
+    },
+    {
+      "id": "6",
+      "name": "Cookie Dough",
+      "description": "Vanilla-based ice cream with real cookie dough pieces & chocolate chips",
+      "price": " 6.50",
+      "imageUrl": "https://assets-global.website-files.com/60680e16f45cd34525698cd7/60737bf83529218cca4d6e21_Cookie%20Dough.png",
+      "ingredients": "Milkfat, Nonfat Milk, Sugar, Corn Syrup, Whey, Wheat Flour, Butter, Liquid Pasteurized Eggs, Vegetable Shortening "
+    },
+    {
+      "id": "3859",
+      "name": "Raspberry Cheesecake",
+      "description": "Speculaas cookie base ice cream with crushed cookies and semi-sweet chocolate chips",
+      "price": "7.00",
+      "imageUrl": "https://assets-global.website-files.com/60680e16f45cd34525698cd7/6073964c447375665d6d20d3_Raspberry%20Cheesecake.png",
+      "ingredients": "Made with real cake pieces and candy sprinkles, you don't have to wait until your birthday to enjoy this."
+    }
+  ]
+}
